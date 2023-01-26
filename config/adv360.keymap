@@ -37,9 +37,9 @@
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans        &trans        &trans  &trans  &trans  &kp C_POWER
  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp C_BRI_DN  &kp C_BRI_UP  &trans  &trans       &trans
- &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans                              &trans  &trans       &trans  &trans  &kp C_VOL_DN      &kp C_VOL_UP  &kp C_MUTE  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans        &trans        &trans  &trans  &trans       &trans  &trans    &kp C_PREV  &kp C_PLAY_PAUSE  &kp C_NEXT  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans        &trans        &trans  &trans  &trans       &trans  &trans        &trans
+ &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans                              &trans  &trans       &trans  &trans  &kp K_MUTE  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans        &trans        &trans  &trans  &trans       &trans  &trans  &kp C_PREV   &kp C_PLAY_PAUSE       &kp C_NEXT  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans        &trans        &trans  &trans  &trans       &trans  &trans      &trans
             >;
         };
 
